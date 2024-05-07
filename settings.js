@@ -19,9 +19,9 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "Nigeria, Lagos, Ikeja" //ur location
 
 //new
-global.botname = 'mammi V11' //ur bot name
+global.botname = 'Mr X"s bot' //ur bot name
 global.ownernumber = '2347026423143' //ur owner number
-global.ownername = 'mr x' //ur owner name
+global.ownername = 'Mr X' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
 global.themeemoji = '🪀'
@@ -30,7 +30,7 @@ global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
 global.packname = "Sticker By"
 global.author = "🦄드림 가이 Xeon\n\n+916909137213"
 global.creator = "916909137213@s.whatsapp.net"
-global.xprefix = ','
+global.xprefix = '!'
 global.premium = ["916909137213"] // Premium User
 global.hituet = 0
 
